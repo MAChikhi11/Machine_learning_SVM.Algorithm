@@ -1,2 +1,4 @@
 # Machine_learning_SVM.Algorithm
-Développement d'un système de classification SVM avec interface conviviale, démontrant des compétences en machine learning et de conception logicielle.( Jupyter Notebook, python).
+Développement d'une application utilisant l'algorithme SVM
+pour classifier le "Iris Dataset", avec une interface utilisateur pour
+afficher les résultats et interagir avec les données( Jupyter Notebook, python).
